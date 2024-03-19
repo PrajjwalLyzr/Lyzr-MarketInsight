@@ -1,6 +1,6 @@
 # Welcome to the NSE Market-Insight by Lyzr!
 
-![Lyzr Logo](logo\lyzr-logo.png)
+![Lyzr Logo](./logo/lyzr-logo.png)
 
 NSE Market-Insight is a powerful tool designed to analyze and visualize historical stock market data with the help of `DataAnalyzr` Agent by Lyzr. Gain valuable insights into trends, patterns, and volatility, empowering you to make informed investment decisions. Explore price movements, trading volume, technical indicators, such as 
 - 44 Moving Average Lines.
