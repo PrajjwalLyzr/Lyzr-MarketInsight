@@ -53,7 +53,7 @@ litellm==1.2.0
 llama-index==0.9.4
 llmsherpa==0.1.4
 lxml==5.1.0
-lyzr==0.1.27
+lyzr==0.1.28
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 marshmallow==3.21.1
