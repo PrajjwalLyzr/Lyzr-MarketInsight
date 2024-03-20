@@ -41,7 +41,7 @@ def save_uploaded_file(uploaded_file):
 
 def company_list():
     company_lst = []
-    eq = pd.read_csv('utils\EQUITY_L.csv')
+    eq = pd.read_csv(Path('utils\EQUITY_L.csv'))
 
     for name in eq.SYMBOL:
         company_lst.append(f"{name}.NS")
